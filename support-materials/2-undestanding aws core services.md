@@ -22,9 +22,9 @@ Methods of interacting with AWS Services:
 Download and install the CLI tool using this link [AWS CLI Tool](https://docs.aws.amazon.com/cli/v1/userguide/cli-chap-install.html)
 
 ### Summary
-Reviewed the ways you interact with AS services
-Explored the AWS Console and its use
-Introduced the AWS Command Line Interface and its use   
-Introduced thw AWS Software Developer Kit and supported languages
+ - Reviewed the ways you interact with AWS services
+ - Explored the AWS Console and its use
+ - Introduced the AWS Command Line Interface and its use   
+ - Introduced thw AWS Software Developer Kit and supported languages
 
 
