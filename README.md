@@ -4,4 +4,4 @@ This repository was created to keep personal notes and studies on the AWS Certif
 
 I will take 4 courses to prepare for this exam. The courses are part of a Pluralsight Certification Path. You can take a look a those [here](https://app.pluralsight.com/paths/certificate/aws-certified-cloud-practitioner-clf-c01)
 
-## [Notes for the 2nd course](https://github.com/leandroaraujosouza/aws-certified-cloud-practitioner-studies/blob/68927b025adc3fa911e389f7d76aaf767d71936d/README.md#L7)
+## [Notes for the 2nd course](https://github.com/leandroaraujosouza/aws-certified-cloud-practitioner-studies/blob/ff01cd3be0b4acf09d61558820ac3bfebea2ab54/support-materials/2-undestanding%20aws%20core%20services.md)
