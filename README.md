@@ -1,22 +1,7 @@
 # AWS Certified Cloud Practitioner Studies  
 
-## Understanding AWS Core Services
+This repository was created to keep personal notes and studies on the AWS Certified Cloud Practitioner studies.
 
-Methods of interacting with AWS Services:  
- - AWS Console: A web-based interface. All major browser supported
- - AWS CLI: Command Line access for administering AWS resources
- - AWS SDK: Programmatic access to manage AWS resources
+I will take 4 courses to prepare for this exam. The courses are part of a Pluralsight Certification Path. You can take a look a those [here](https://app.pluralsight.com/paths/certificate/aws-certified-cloud-practitioner-clf-c01)
 
-### AWS SDK Languages:  
- - Java
- - .NET
- - Node.js
- - Javascript
- - PHP
- - Python
- - Ruby
- - C++
-
-### Using the AWS CLI
-
-Download and install the CLI tool using this link [AWS CLI Tool](https://docs.aws.amazon.com/cli/v1/userguide/cli-chap-install.html)
+## [Notes for the 2nd course](https://github.com/leandroaraujosouza/aws-certified-cloud-practitioner-studies/blob/68927b025adc3fa911e389f7d76aaf767d71936d/README.md#L7)
